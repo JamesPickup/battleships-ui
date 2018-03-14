@@ -1,5 +1,7 @@
 # battleships-ui
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/industrieco/battleships-ui.svg)](https://greenkeeper.io/)
+
 The UI for the Battleships smart contract developed within the Blockchain Bootcamp
 
 * `develop` [circleCI badge] [codecov badge]
